@@ -1,4 +1,4 @@
-## Hi! I'm Danielle and I'm a Web Developer :) 
+## Hi! I'm a Web Developer :) 
 
 
 Starting programming in React JS 🏃🏻‍♀️ 
