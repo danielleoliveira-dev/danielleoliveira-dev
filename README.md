@@ -8,12 +8,14 @@ Some SPECIALTIES:<br>
 ➟ Responsive Web Design.<br>
 ➟ Framework: Bootstrap4, IBM Watson Assistant.<br>
 ➟ Tools: VSCode, Adobe XD, Adobe Photoshop, Sketch, Litmus, Salesforce Marketing Cloud.<br>
-➟ SCRUM Methodology.
+➟ SCRUM Methodology.<br><br>
+*Complete Complete Trail Beginner Developer - Salesforce*
+
   
 
   
  <div style="display: inline_block"><br>
-  <img align="center" alt="Dani-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
   <img align="center" alt="Dani-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dani-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dani-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
