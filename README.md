@@ -9,7 +9,7 @@ Some SPECIALTIES:<br>
 ➟ Framework: Bootstrap4, IBM Watson Assistant.<br>
 ➟ Tools: VSCode, Adobe XD, Adobe Photoshop, Sketch, Litmus, Salesforce Marketing Cloud.<br>
 ➟ SCRUM Methodology.<br><br>
-*Complete Complete Trail Beginner Developer - Salesforce*
+*Complete Trail Beginner Developer - Salesforce*
 
   
 
