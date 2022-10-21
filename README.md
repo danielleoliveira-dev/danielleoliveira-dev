@@ -1,19 +1,14 @@
-## Hi! I'm a Web Developer :) 
-
-
-Starting programming in React JS 🏃🏻‍♀️ 
+## Hi! I'm a Salesforce Developer :) 
 
 Some SPECIALTIES:<br>
+➟ Clouds: Marleting Cloud, Sales.<br>
+➟ Programming languages: Javascript, Apex
 ➟ E-mail Marketing, Website Building, Landing Page and WordPress skills.<br>
 ➟ Responsive Web Design.<br>
 ➟ Framework: Bootstrap4, IBM Watson Assistant.<br>
-➟ Tools: VSCode, Adobe XD, Adobe Photoshop, Sketch, Litmus, Salesforce Marketing Cloud.<br>
-➟ SCRUM Methodology.<br><br>
-*Complete Trail Beginner Developer - Salesforce*
+➟ Tools: VSCode, Adobe XD, Adobe Photoshop, Sketch, Litmus<br>
+➟ SCRUM Methodology with Jira Software.<br><br>
 
-  
-
-  
  <div style="display: inline_block"><br>
 
   <img align="center" alt="Dani-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
