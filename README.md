@@ -2,7 +2,7 @@
 
 Some SPECIALTIES:<br>
 ➟ Clouds: Marleting Cloud, Sales.<br>
-➟ Programming languages: Javascript, Apex
+➟ Programming languages: Javascript, Apex<br>
 ➟ E-mail Marketing, Website Building, Landing Page and WordPress skills.<br>
 ➟ Responsive Web Design.<br>
 ➟ Framework: Bootstrap4, IBM Watson Assistant.<br>
