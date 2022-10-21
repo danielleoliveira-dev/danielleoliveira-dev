@@ -1,7 +1,7 @@
 ## Hi! I'm a Salesforce Developer :) 
 
 Some SPECIALTIES:<br>
-➟ Clouds: Marleting Cloud, Sales.<br>
+➟ Clouds: Marketing Cloud, Sales.<br>
 ➟ Programming languages: Javascript, Apex<br>
 ➟ E-mail Marketing, Website Building, Landing Page and WordPress skills.<br>
 ➟ Responsive Web Design.<br>
