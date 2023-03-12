@@ -1,4 +1,4 @@
-## Hi! I'm a Salesforce Developer :) 
+## Hi! I'm a Software Developer :) 
 
 Some SPECIALTIES:<br>
 ➟ Clouds: Marketing Cloud, Sales.<br>
