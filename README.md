@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+My+name+is+Danielle!;I'm+a+Software+Developer!)](https://git.io/typing-svg)
 <br>
 ### Some SPECIALTIES 👇 <br>
-➟ Clouds: Marketing Cloud, Sales.<br>
+➟ Clouds: Marketing Cloud, Sales, Service.<br>
 ➟ Programming languages: Javascript, Apex<br>
 ➟ E-mail Marketing, Website Building, Landing Page and WordPress skills.<br>
 ➟ Responsive Web Design.<br>
